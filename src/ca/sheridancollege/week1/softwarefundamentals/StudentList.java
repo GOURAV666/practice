@@ -15,7 +15,7 @@ public class StudentList {
     
     public static void main(String[] args)
     {
-       Student [] studentList = new Student[748];//change size before running
+       Student [] studentList = new Student[74];//change size before running
        Student s1 = new Student();
        s1.setName("Liz Dancy");
        studentList[0]=s1;
